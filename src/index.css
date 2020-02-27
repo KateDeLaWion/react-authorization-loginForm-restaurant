@@ -1,3 +1,11 @@
+
+html{
+  /* photo of Balthazar and text is set white */
+  background-image: url("https://cdn-image.departures.com/sites/default/files/styles/responsive_900x600/public/1487859519/balthazar_restaurant_2000x1333.jpg?itok=a-bNCV62");
+  background-size: cover;
+  color: rgb(117, 245, 42);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +19,5 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
