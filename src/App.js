@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-// Not using @appbaseio/reactivesearch in this app.
+// Not using @appbaseio/reactivesearch in this current app.
 // import {
 //   ReactiveBase,
 //   CategorySearch,
